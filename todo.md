@@ -1,5 +1,6 @@
 # How To Make Tea
 
+![Picture of food](http://lorempixel.com/400/200/food/)
 ## Supplies Required:
 
 * Electric kettle
